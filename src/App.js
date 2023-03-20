@@ -16,7 +16,7 @@ function App() {
   setImg(valor.target.value)
 }
   const onClickExportar =function(evento){
-    alert("exportando")
+    
     html2canvas(document.querySelector("#meme")).then(canvas=>{
      // document.body.appendChild(canvas)
      var img = canvas.toDataURL("image/png");
