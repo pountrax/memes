@@ -27,7 +27,7 @@ function App() {
      link.click();
     });
   }
-  /*///////////////////
+  /*////////sd///////////
    PARA MOVIMIENTO DE SPANS
   /////////////////////*/
 
