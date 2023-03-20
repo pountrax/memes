@@ -114,7 +114,7 @@ const spanStyle2 = {
  // Renderizamos el div con los manejadores de eventos y el objeto de estilo
   return (
     <div className="App">
-      <p>Generador de memes! Por favor, seleccione la plantilla</p>
+      <p>Generador de memes! Por favor, seleccione la plantilla (sitio diseñado solo para pc)</p>
 
       <br></br>
       <div className="header">
